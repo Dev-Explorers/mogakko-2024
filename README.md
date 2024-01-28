@@ -64,7 +64,7 @@
         <img src="https://avatars.githubusercontent.com/u/53739820?v=4" alt="wl2258" width="120" />
       </a>
       <br />
-      <a href="https://github.com/namtndus">남수현</a>
+      <a href="https://github.com/namtndus">남수연</a>
     </td>
     <td align="center">
       <a href="https://github.com/qorjiwon">
