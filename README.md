@@ -9,11 +9,11 @@
 | :- | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <center>[강동욱](https://github.com/woogie0303)</center>  |✅|✅|
 | <center>[강신범](https://github.com/kangsinbeom)</center> |🏅|✅|
-| <center>[강철원](https://github.com/Ryan-dia)</center>    |🏆|✅|
-| <center>[김형주](https://github.com/)</center>            |✅|🏆|      
-| <center>[남수연](https://github.com/namtndus)</center>    |🏆|🏅|     
+| <center>[강철원](https://github.com/Ryan-dia)</center>    |👑|✅|
+| <center>[김형주](https://github.com/)</center>            |✅|👑|      
+| <center>[남수연](https://github.com/namtndus)</center>    |👑|🏅|     
 | <center>[백지원](https://github.com/qorjiwon)</center>    |✅|  |     
-| <center>[유현우](https://github.com/uhanuu)</center>      |🏆|🏆|  
+| <center>[유현우](https://github.com/uhanuu)</center>      |👑|👑|  
 |     <center>총원</center>                          
 
 <br>
@@ -21,7 +21,8 @@
 |출석 |✅ | 주 4회 출근 |
 | --- | ---| ---|
 |꾸준 |🏅 | 주 5회 출근 |
-|열정 |🏆 | 주 6회 출근 |
+|열정 |👑 | 주 6회 출근 |
+|??  |🏆 | 주 6회 출근 +  주 5회 10to10 |
 
 <br>
 
