@@ -30,6 +30,7 @@
 | <center>[박은성](https://github.com/)</center> |
 | <center>[신현호](https://github.com/)</center>  |
 | <center>[임명철](https://github.com/)</center>    |
+| <center>[채유빈](https://github.com/)</center>    |
 | <center>[한욱희](https://github.com/)</center>            |     
 |     <center>총원</center>                          
 
