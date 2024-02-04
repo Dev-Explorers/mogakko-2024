@@ -26,12 +26,13 @@
 
 | 　　\　week<br>이름　\  |1 | 2|3|4| 5|6 |7|8|9 |10| 11| 12|13|14|15|
 | :- | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <center>[강한준](https://github.com/)</center> |
 | <center>[박은성](https://github.com/)</center> |
 | <center>[신현호](https://github.com/)</center>  |
+| <center>[이지현](https://github.com/)</center>  |
 | <center>[임명철](https://github.com/)</center>    |
 | <center>[채유빈](https://github.com/)</center>    |
-| <center>[한욱희](https://github.com/)</center>            |     
+| <center>[최진수](https://github.com/)</center>    |
+| <center>[한욱희](https://github.com/)</center>    |     
 |     <center>총원</center>                          
 
 <br>
