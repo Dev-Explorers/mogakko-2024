@@ -29,7 +29,6 @@
 | <center>[강한준](https://github.com/)</center> |
 | <center>[김태우](https://github.com/)</center> |
 | <center>[박은성](https://github.com/)</center> |
-| <center>[성상화](https://github.com/)</center>  |
 | <center>[신현호](https://github.com/)</center>  |
 | <center>[이주환](https://github.com/)</center>  |
 | <center>[이지현](https://github.com/)</center>  |
