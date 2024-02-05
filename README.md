@@ -9,14 +9,14 @@
 
 | 　　\　week<br>이름　\  |1 | 2|3|4| 5|6 |7|8|9 |10| 11| 12|13|14|15|
 | :- | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <center>[강동욱](https://github.com/woogie0303)</center>  |✅|✅|
-| <center>[강신범](https://github.com/kangsinbeom)</center> |🏅|✅|
-| <center>[강철원](https://github.com/Ryan-dia)</center>    |👑|✅|
-| <center>[김형주](https://github.com/)</center>            |✅|👑|      
-| <center>[남수연](https://github.com/namtndus)</center>    |👑|🏅|     
-| <center>[백지원](https://github.com/qorjiwon)</center>    |✅|  |     
-| <center>[유현우](https://github.com/uhanuu)</center>      |👑|👑|  
-|     <center>총원</center> |                                7|6|                         
+| <center>[강동욱](https://github.com/woogie0303)</center>  |✅|✅|✅|
+| <center>[강신범](https://github.com/kangsinbeom)</center> |🏅|✅|✅|
+| <center>[강철원](https://github.com/Ryan-dia)</center>    |🏵️|✅|🏆|
+| <center>[김형주](https://github.com/)</center>            |✅|🏵️|👑|      
+| <center>[남수연](https://github.com/namtndus)</center>    |🏵️|🏅|🏵️|     
+| <center>[백지원](https://github.com/qorjiwon)</center>    |✅|  | |     
+| <center>[유현우](https://github.com/uhanuu)</center>      |🏵️|🏵️|👑|  
+|     <center>총원</center> |                                7|6|6|                         
 
 <br>
 
@@ -41,8 +41,9 @@
 |출석 |✅ | 주 4회 출근 |
 | --- | ---| ---|
 |꾸준 |🏅 | 주 5회 출근 |
-|열정 |👑 | 주 6회 출근 |
-|??  |🏆 | 주 6회 출근 +  주 5회 10to10 |
+|열정|👑| 주 5회 출근 + 주 3회 10to10 |
+|The 꾸준 |🏵️| 주 6회 출근 |
+|The 열정 |🏆 | 주 6회 출근 +  주 5회 10to10 |
 
 <br>
 
