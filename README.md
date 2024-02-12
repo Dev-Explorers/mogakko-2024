@@ -15,7 +15,7 @@
 | <center>[김형주](https://github.com/)</center>            |✅|🏵️|👑|🏵️|      
 | <center>[남수연](https://github.com/namtndus)</center>    |🏵️|🏅|🏵️|✅| 
 | <center>[유현우](https://github.com/uhanuu)</center>      |🏵️|🏵️|👑|✅|
-|     <center>총원</center> |                                7|6|6|                         
+|     <center>총원</center> |                                7|6|6| |4|                        
 
 <br>
 
@@ -35,7 +35,7 @@
 | <center>[임명철](https://github.com/)</center>   |✅
 | <center>[채유빈](https://github.com/)</center>   |🏅 
 | <center>[최진수](https://github.com/)</center>   |✅    
-|     <center>총원</center>                          
+|     <center>총원</center>                        |10|    
 
 <br>
 
