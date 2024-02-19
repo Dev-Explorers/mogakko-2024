@@ -36,7 +36,7 @@
 | <center>[임명철](https://github.com/)</center>   |✅ | 
 | <center>[채유빈](https://github.com/)</center>   |🏅 |
 | <center>[최진수](https://github.com/)</center>   |✅ |✅|  
-| <center>[마예준](https://github.com/)</center>   |  |  |
+| <center>[마혜준](https://github.com/)</center>   |  |  |
 | <center>[황희태](https://github.com/)</center>   |   |✅|  
 |     <center>총원</center>                        |10|8|    
 
