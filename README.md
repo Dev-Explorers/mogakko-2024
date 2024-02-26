@@ -26,6 +26,7 @@
 | 　　\　week<br>이름　\  |1 | 2|3|4| 5|6 |7|8|9 |10| 11| 12|13|14|15|
 | :- | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <center>[강한준](https://github.com/)</center>   |✅ |🏅|🏅|
+| <center>[김정환](https://github.com/)</center>   |  |  |✅|
 | <center>[김지민](https://github.com/)</center>   |🏆 |🏆|🏅|
 | <center>[김태우](https://github.com/)</center>   |✅ |✅|✅|
 | <center>[김황연](https://github.com/)</center>   |   |✅|✅|
