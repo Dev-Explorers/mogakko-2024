@@ -30,15 +30,12 @@
 |3| <center>[김지민](https://github.com/)</center>   |🏆 |🏆|🏅|🏵️|
 |4| <center>[김태우](https://github.com/)</center>   |✅ |✅|✅|🏅|
 |5| <center>[김황연](https://github.com/)</center>   |   |✅|✅|❌|
-|6| <center>[박은성](https://github.com/)</center>   |✅ |  | |❌|
-|7| <center>[신현호](https://github.com/)</center>   |✅ |✅|🏅|✅| 
-|8| <center>[이주환](https://github.com/)</center>   |✅ |  |✅|❌| 
-|9| <center>[이지현](https://github.com/)</center>   |✅ |✅|✅|✅| 
-|10| <center>[임명철](https://github.com/)</center>   |✅ | |  |✅|
-|11| <center>[채유빈](https://github.com/)</center>   |🏅 | |🏅|✅| 
-|12| <center>[최진수](https://github.com/)</center>   |✅ |✅|🏅|❌|
-|13| <center>[마혜준](https://github.com/)</center>   |   | |🏅|❌|
-|14| <center>[황희태](https://github.com/)</center>   |  |  |  |✅| 
+|6| <center>[신현호](https://github.com/)</center>   |✅ |✅|🏅|✅| 
+|7| <center>[이지현](https://github.com/)</center>   |✅ |✅|✅|✅| 
+|8| <center>[임명철](https://github.com/)</center>   |✅ | |  |✅|
+|9| <center>[채유빈](https://github.com/)</center>   |🏅 | |🏅|✅| 
+|10| <center>[마혜준](https://github.com/)</center>   |   | |🏅|❌|
+|11| <center>[황희태](https://github.com/)</center>   |  |  |  |✅| 
 ||     <center>총원</center>                          |10|7|10|9 |  
 
 <br>
