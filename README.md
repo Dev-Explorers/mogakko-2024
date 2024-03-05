@@ -50,6 +50,7 @@
 | :- | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | <center>[이찬](https://github.com/)</center>   |🏵️|
 | <center>[이혁준](https://github.com/)</center>   |🏵️|
+| <center>[김수현](https://github.com/)</center>   |  |
 |     <center>총원</center>                        ||||    
 
 <br>
