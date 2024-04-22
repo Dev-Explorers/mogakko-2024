@@ -10,13 +10,13 @@
 
 | 　　\　week<br>이름　\  |1 | 2|3|4| 5|6 |7|8|9 |10| 11| 12|13|14|15|
 | :- | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| <center>[강철원](https://github.com/Ryan-dia)🎾🎾</center>    |🏵️|🏆|💎|
-| <center>[강신범](https://github.com/kangsinbeom)🎾🎾</center> |❌|✅|✅|
-| <center>[강솔문](https://github.com/)🎾🎾</center>            |✅|🏵️|💎|
-| <center>[강한준](https://github.com/)🎾🎾</center>            |✅|🏅|🏅|
-| <center>[이지현](https://github.com/)🎾🎾</center>            |🏵️|✅|✅| 
-| <center>[이찬](https://github.com/)🎾🎾</center>              |🏆|🏆|🏆|
-| <center>[하승진](https://github.com/)🎾🎾</center>             |  | |🏅|
+| <center>[강철원](https://github.com/Ryan-dia)🎾🎾</center>    |🏵️|🏆|💎|🏵️|
+| <center>[강신범](https://github.com/kangsinbeom)🎾🎾</center> |❌|✅|✅|❌|
+| <center>[강솔문](https://github.com/)🎾🎾</center>            |✅|🏵️|💎|🏵️|
+| <center>[강한준](https://github.com/)🎾🎾</center>            |✅|🏅|🏅|🏅|
+| <center>[이지현](https://github.com/)🎾🎾</center>            |🏵️|✅|✅|🏅| 
+| <center>[이찬](https://github.com/)🎾🎾</center>              |🏆|🏆|🏆|🏆|
+| <center>[하승진](https://github.com/)🎾🎾</center>             |  | |🏅|🏅|
 
 <br>
 <br>
