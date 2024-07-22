@@ -47,7 +47,7 @@
 |1| [김형주](https://github.com/kim0527)🎾     |✅|💎|       
 |2| [강동욱](https://github.com/woogie0303)🎾  |✅|🏅|       
 |3| [김선희](https://github.com/)🎾🎾          ||
-|4| [천윤서](https://github.com/)🎾🎾          |❌|🏅|          
+|4| [천윤서](https://github.com/)🎾            |✅|🏅|          
 |5| [김지환](https://github.com/)🎾🎾          ||
 |6| [장석열](https://github.com/)🎾🎾          ||
 |7| [이경완](https://github.com/)🎾🎾          ||
