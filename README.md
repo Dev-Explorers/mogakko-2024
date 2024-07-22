@@ -53,7 +53,7 @@
 |7| [이경완](https://github.com/)🎾🎾          ||
 |8| [최동현](https://github.com/)🎾🎾          ||
 |9| [황시은](https://github.com/)🎾🎾          ||
-|10 [양 진](https://github.com/)🎾🎾          ||
+|10| [양 진](https://github.com/)🎾🎾          ||
 
 <br>
 <br>
