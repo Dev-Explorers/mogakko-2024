@@ -1,7 +1,7 @@
 # 🎾 모각코-2024 [ Season 4 ]
 
-[📌 모각코-2024 [ Season 1 ]](https://github.com/Dev-Explorers/mogakko-2024/wiki/%EB%AA%A8%EA%B0%81%EC%BD%94-%EC%8B%9C%EC%A6%8C-1)    
-[📌 모각코-2024 [ Season 2 ]](https://github.com/Dev-Explorers/mogakko-2024/wiki/%EB%AA%A8%EA%B0%81%EC%BD%94-%EC%8B%9C%EC%A6%8C-2)
+[📌 모각코 - Season 3 (2024.07.08 ~ 2024.10.20)](#--season-3--20240708--20241020)
+
 
 <br>
 <br>
@@ -78,7 +78,7 @@
 
 <br>
 
-## 🎾 [ Season 3 ]  (2024.07.08 ~ 2024.10.20)
+## 🎾 [ Season 3 ] (2024.07.08 ~ 2024.10.20)
 
 ## 🙋‍♂️ 1팀 멤버 
 
