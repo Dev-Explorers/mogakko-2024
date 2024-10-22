@@ -59,8 +59,7 @@
 |6| [지가연](https://github.com/)🎾                    
 |7| [진관호](https://github.com/)🎾🎾               
 |8| [정해준](https://github.com/)🎾🎾
-|9| [조승현](https://github.com/)🎾🎾 
-|10| [박수현](https://github.com/)🎾🎾 
+|9| [박수현](https://github.com/)🎾🎾 
 
 <br>
 
