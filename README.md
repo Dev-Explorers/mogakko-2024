@@ -61,7 +61,6 @@
 |8| [정해준](https://github.com/)🎾🎾
 |9| [조승현](https://github.com/)🎾🎾 
 |10| [박수현](https://github.com/)🎾🎾 
-|11| [정 현](https://github.com/)🎾🎾 
 
 <br>
 
