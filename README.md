@@ -16,17 +16,17 @@
 
 |순번|　\ week<br> 이름 \  |1 | 2|3|4| 5|6 |7|8|9 |10| 11| 12|13|14|15|
 | :-: |- | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1| [강철원](https://github.com/Ryan-dia)🎾🎾     
-|2| [양윤수](https://github.com/Berygna)🎾        
-|3| [이찬](https://github.com/LC-02s)🎾🎾        
-|4| [김하은](https://github.com/hanni66)         
-|5| [한상현](https://github.com/)🎾🎾             
-|6| [이승미](https://github.com/)🎾🎾          
-|7| [주현준](https://github.com/)🎾🎾             
-|8| [고은별](https://github.com/)🎾🎾           
-|9| [최상현](https://github.com/)🎾              
-|10|[김도연](https://github.com/)🎾             
-
+|1| [강철원](https://github.com/Ryan-dia)🎾🎾    |🏆|  
+|2| [양윤수](https://github.com/Berygna)🎾       |🏅|  
+|3| [이찬](https://github.com/LC-02s)🎾🎾        |🏵️| 
+|4| [김하은](https://github.com/hanni66)         |🏅|  
+|5| [한상현](https://github.com/)🎾🎾             |🏅| 
+|6| [이승미](https://github.com/)🎾🎾             |💊|
+|7| [주현준](https://github.com/)🎾🎾             |🏆| 
+|8| [고은별](https://github.com/)🎾🎾             |🏅|
+|9| [최상현](https://github.com/)                |✅|
+|10|[김도연](https://github.com/)🎾              |🏅| 
+|11|[이송희](https://github.com/)🎾              |🏵️|                                   
 <br>
 <br>
 
