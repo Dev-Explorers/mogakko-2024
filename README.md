@@ -58,14 +58,14 @@
 
 |순번| 　　\　week<br>이름　\  |1 | 2|3|4| 5|6 |7|8|9 |10| 11| 12|13|14|15|
 |:-:| - | :-: | :-: | :-:| :-:| :-:| :-: | :-: | :-: |  :-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1| [천윤서](https://github.com/)🎾🎾             |💎|🏅|💎|🏅|💎|🏅|🏅|🏅|
-|2| [김선희](https://github.com/)🎾               |🏅|💎|🏅|🏅|🏅|🏅|✅|🏅|
-|3| [성해인](https://github.com/)🎾🎾             |🏅|🏅|✅|🏅|🏅|🏅|✅|🏅|
-|4| [진관호](https://github.com/)🎾🎾             |💎|💎|🏅|💎|🏅|💎|💎|🏅|
-|5| [유세빈](https://github.com/)                |🎉|❌|💎|💎|🏅|💎|✅|✅|
-|6| [박소희](https://github.com/)🎾              |  |  |🎉|🏅|❌|🏅|✅|🏅|
-|7| [박주형](https://github.com/)🎾🎾             |  |  |  |  |  ||🎉|🏅|
-|8| [조서희](https://github.com/)🎾               |  |  |  |  ||🎉|✅|🏅|
+|1| [천윤서](https://github.com/)🎾🎾             |💎|🏅|💎|🏅|💎|🏅|🏅|🏅|🏅|
+|2| [김선희](https://github.com/)🎾               |🏅|💎|🏅|🏅|🏅|🏅|🏅|✅|🏅|
+|3| [성해인](https://github.com/)🎾🎾             |🏅|🏅|✅|🏅|🏅|🏅|🏅|✅|🏅|
+|4| [진관호](https://github.com/)🎾🎾             |💎|💎|🏅|💎|🏅|💎|🏅|💎|🏅|
+|5| [유세빈](https://github.com/)                |🎉|❌|💎|💎|🏅|💎|🏅|✅|✅|
+|6| [박소희](https://github.com/)🎾              |  |  |🎉|🏅|❌|🏅|🏅|✅|🏅|
+|7| [박주형](https://github.com/)🎾🎾             |  |  |  |  |  |||🎉|🏅|
+|8| [조서희](https://github.com/)🎾               |  |  |  |  |||🎉|✅|🏅|
 
 <br>
 
