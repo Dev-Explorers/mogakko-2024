@@ -8,7 +8,44 @@
 [📌 모각코 - Season 1 (2024.01.16 ~ 2024.04.20)](#--season-1---20240116--20240420)   
 
 <br>
-<br>
+
+## 🔥 운영진
+
+<table style="width: 100%; text-align: center; border-collapse: collapse;">
+    <tr>
+        <th style="width: 20%;">총괄 & 1팀</th>
+        <th style="width: 20%;">2팀</th>
+        <th style="width: 20%;">3팀</th>
+        <th style="width: 20%;">4팀</th>
+        <th style="width: 20%;">5팀</th>
+    </tr>
+    <tr>
+        <td style="vertical-align: middle;">
+            <img src="https://avatars.githubusercontent.com/u/76567238?v=4" style="width: 135px; height: 135px; border-radius: 50%;">
+        </td>
+        <td style="vertical-align: middle;">
+            <img src="https://avatars.githubusercontent.com/u/63189595?v=4" style="width: 135px; height: 135px; border-radius: 50%;">
+        </td>
+        <td style="vertical-align: middle;">
+            <img src="https://avatars.githubusercontent.com/u/110769195?v=4" style="width: 135px; height: 135px; border-radius: 50%;">
+        </td>
+        <td style="vertical-align: middle;">
+            <img src="https://avatars.githubusercontent.com/u/109202222?v=4" style="width: 135px; height: 135px; border-radius: 50%;">
+        </td>
+        <td style="vertical-align: middle;">
+            <img src="https://avatars.githubusercontent.com/u/120218763?v=4" style="width: 135px; height: 135px; border-radius: 50%;">
+        </td>
+    </tr>
+    <tr>
+        <th style="width: 20%;">강철원</th>
+        <th style="width: 20%;">채유빈</th>
+        <th style="width: 20%;">이찬</th>
+        <th style="width: 20%;">서다영</th>
+        <th style="width: 20%;">임지현</th>
+    </tr>
+</table>
+
+
    
 <br>
 
